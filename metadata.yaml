@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '25396'
     url: http://www.gutenberg.org/2009/agents/25396
     wikipedia: https://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: archival
+  image_path: 71909-h/images/cover.jpg
 creator:
   author:
     agent_name: Fontenay, Charles L.
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9500
     wikipedia: https://en.wikipedia.org/wiki/Charles_L._Fontenay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71909#West-o-Mars
 gutenberg_issued: '2023-10-19'
 identifiers:
   gutenberg: '71909'
